@@ -1,0 +1,33 @@
+h1 {
+  font-family: fantasy;
+  text-shadow: 5px 5px red;
+}
+
+#text-and-button {
+  width: 48%;
+  display: inline-block;
+  float: left;
+  background-color: #68f7a1;
+  padding: 10px;
+  }
+
+p {
+  color: red;
+  font-family: fantasy;
+  font-size: 12px;
+ }
+
+.mystery-button {
+  font-family: fantasy;
+  color: red;
+  background-color: black;
+  width: 100px;
+}
+
+#CatPic {
+ width: 48%;
+ height: 300px;
+ display: inline-block;
+ background-size: contain;
+ background-repeat: no-repeat;
+}
