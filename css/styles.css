@@ -4,7 +4,7 @@ h1 {
 }
 
 #text-and-button {
-  width: 48%;
+  width: 100%;
   display: inline-block;
   float: left;
   background-color: #68f7a1;
@@ -25,8 +25,8 @@ p {
 }
 
 #cat-pic {
- width: 48%;
  height: 300px;
+ width: 300px;
  display: inline-block;
  background-size: contain;
  background-repeat: no-repeat;
